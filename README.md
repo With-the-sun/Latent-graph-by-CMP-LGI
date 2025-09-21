@@ -11,3 +11,4 @@ The folder "CMP-LGI for github" is used to implement “Effective analysis of he
 *   `A_P&ID.mat`: An adjacency matrix derived from the piping and instrumentation diagram (P&ID), serving as a concrete representation of prior knowledge.
 *   `A_CMP-LGI`: The graph adjacency matrix learned by the CMP-LGI algorithm.
 *   `CMP-LGI_Fourier Transform_directed_800dpi.tif`: A visualization showcasing the results produced by running `Graph_Fourier_transform_SWAT.m`.
+<img width="716" height="574" alt="image" src="https://github.com/user-attachments/assets/8f64fd25-8970-4422-9d0b-c0cd24290d62" />
